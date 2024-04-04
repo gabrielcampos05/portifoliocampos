@@ -1,2 +1,0 @@
-# portifolio
- Projetos em python
